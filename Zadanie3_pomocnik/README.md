@@ -13,13 +13,10 @@ Ula chciałaby upewnić się że rośliny zostaną estetycznie dobrane. Młotkie
 ## Wejście:
 W pierwszej linii wejścia program otrzymuje liczbę n określającą ilość list gatunków roślin. W kolejnych n liniach program otrzymuje n opisów dostępnych roślin. Każdy opis składa się z liczby m określającej początkową liczbę roślin w obrębie gatunku a następnie w m liniach pary składające się z ciągu znaków s będącego nazwą rośliny oraz liczby całkowitej c oznaczającej wymaganą powierzchnię. Następnie program otrzymuje liczbę l po czym l rozmiarów rabat w kolejności rosnącej. W dalszym kroku program otrzymuję sygnał sterujący rozpoczynając od liczby h a potem h par liczb całkowitych x i y gdzie x określa o ile list gatunków się przesunąć zgodnie a y o roślin przesunąć się na liście.
 
-**1 ≤ n ≤ 5000**
-
-**1 ≤ c ≤ 1000**
-
-**-10000 ≤ x ≤ 10000**
-
-**-10000 ≤ y ≤ 10000**
+***1 ≤ n ≤ 5000***\
+***1 ≤ c ≤ 1000***\
+***-10000 ≤ x ≤ 10000***\
+***-10000 ≤ y ≤ 10000***
 
 ## Wyjście:
 Na wyjściu program powinien wyświetlić znaleziony rozmiar rabaty oraz ciąg nazw roślin. Rośliny zawsze są wyświetlane w kolejności w jakiej ich gatunki pojawiły się na wejściu.

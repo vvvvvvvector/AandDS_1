@@ -11,9 +11,9 @@ Nie tylko ze swoich kwiatów Ula jest dumna. Od wielu lat prowadzi ekologiczne g
 Ula na podstawie listy warzyw korzeniowych i niekorzeniowych chciałaby zrobić nowe uporządkowanie na podstawie wymarzonej kolejności.
 
 ## Wejście:
-W pierwszej linii wejścia znajduje się liczba całkowita n, oznaczająca liczbę podwójnych grządek. W drugiej linii wejścia znajdują się trzy liczby 1, 2 i 3 oddzielone spacjami w dowolnej kolejności. Decydują one o kolejności kryteriów, według których porządkowane będą warzywa. W kolejnych **2*n** liniach są wiersze opisujące roślinę. Na opis warzywa składa się kolejno jednowyrazowy napis z jego nazwą, jednej liczby zmiennoprzecinkowej **z** oznaczającej poziom zakwaszenia gleby, dwóch liczb całkowitych **d** i **m**, oznaczajacych kolejno odległość nasadów w milimetrach oraz numer miesiąca nasadu. Miesiące numerowane są od 1. W pierwszych n liniach znajdują się opisy warzyw korzeniowych, a w kolejnych n liniach opisy warzyw niekorzeniowych.
+W pierwszej linii wejścia znajduje się liczba całkowita ***n***, oznaczająca liczbę podwójnych grządek. W drugiej linii wejścia znajdują się trzy liczby 1, 2 i 3 oddzielone spacjami w dowolnej kolejności. Decydują one o kolejności kryteriów, według których porządkowane będą warzywa. W kolejnych ***2\*n*** liniach są wiersze opisujące roślinę. Na opis warzywa składa się kolejno jednowyrazowy napis z jego nazwą, jednej liczby zmiennoprzecinkowej ***z*** oznaczającej poziom zakwaszenia gleby, dwóch liczb całkowitych ***d*** i ***m***, oznaczajacych kolejno odległość nasadów w milimetrach oraz numer miesiąca nasadu. Miesiące numerowane są od 1. W pierwszych n liniach znajdują się opisy warzyw korzeniowych, a w kolejnych n liniach opisy warzyw niekorzeniowych.
 
-**1 ≤ n ≤ 1000000**
+***1 ≤ n ≤ 1000000***
 
 ## Wyjście:
 Na wyjściu program powinien wypisać uporządkowane listy gatunków warzyw w parach według podanej kolejności kryteriów. Para powinna być wyświetlona w postaci: *nazwa1-nazwa2*, pary powinny być od siebie oddzielone znakiem białym. Całą listę należy wyświetlić w jednej linii. W przypadku dwóch gatunków, których wszystkie odpowiadające wartości są równe, należy zachować kolejność wystąpienia na liście.

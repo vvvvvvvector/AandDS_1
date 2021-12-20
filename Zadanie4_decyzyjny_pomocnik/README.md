@@ -11,8 +11,7 @@ Ula zaczęła dodawać kolejne instrukcje swojemu pomocnikowi, wskazując ście�
 ## Wejście:
 Na wejściu dostajemy liczbę naturalną ***n***, oznaczającą liczbę instrukcji, które Ula chce wprowadzić do drzewa decyzyjnego. Następnie otrzymujemy ***n*** instrukcji. Każda składa się z dwóch linii: łańcucha napisowego (z opisem procedury, którą ma wykonać robot) oraz liczby naturalnej ***k***, po której następuje ***k*** liczb naturalnych ***{k<sub>1</sub>...k<sub>k</sub>}***. Te liczby odpowiadają numerom klas, które Ula ustaliła wcześniej i są tak zwaną ścieżką w drzewie decyzyjnym prowadzącą od korzenia (0 - Stan spoczynku) aż do podklasy ***k<sub>k</sub>***, dla której dodawany jest opis (***k<sub>1</sub>*** jest główną klasą podpiętą pod korzeń drzewa decyzyjnego). Jeśli podczas dodawania do drzewa decyzyjnego okaże się, że któraś klasa pośrednia nie została jeszcze dodana do drzewa, należy ją utworzyć i jako opis ustawić literę ***X***. Jeżeli dla danej ścieżki istnieje już opis procedury, należy go nadpisać (zmianie podlega jedynie opis, struktura drzewa pozostaje bez zmian). Nowe gałęzie w ramach klasy dopinane są po kolei w kolejności pojawienia się na wejściu. W ostatniej linii wejścia znajduje się liczba naturalna ***x ∈ {1,2}***, determinująca sposób wyświetlenia drzewa (1 - preorder, 2 - postorder).
 
-***0 ≤ n ≤ 10000***
-
+***0 ≤ n ≤ 10000***\
 ***1 ≤ k ≤ 100***
 
 ## Wyjście:

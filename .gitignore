@@ -1,7 +1,7 @@
 # Ignore Everything
 *
 
-# But not .cpp and .html
+# But not .cpp
 !*.cpp
 # Or directories
 !*/
