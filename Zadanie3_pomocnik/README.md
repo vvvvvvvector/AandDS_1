@@ -1,4 +1,4 @@
-# Zadanie "Mechaniczny pomocnik"
+# Zadanie "Mechaniczny pomocnik" (Listy)
 
 ## Treść zadania
 

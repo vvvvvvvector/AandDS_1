@@ -1,4 +1,4 @@
-# Zadanie "Decyzyjny pomocnik"
+# Zadanie "Decyzyjny pomocnik" (Drzewa)
 
 ## Treść zadania
 

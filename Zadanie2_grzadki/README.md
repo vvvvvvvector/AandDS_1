@@ -1,4 +1,4 @@
-# Zadanie "Grządki"
+# Zadanie "Grządki" (Sortowanie)
 
 ## Treść zadania
 

@@ -1,4 +1,4 @@
-# Zadanie "Ogródki działkowe"
+# Zadanie "Ogródki działkowe" (Dziel i zwyciężaj)
 
 ## Treść zadania
 

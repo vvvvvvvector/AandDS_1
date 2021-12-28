@@ -1,4 +1,4 @@
-# Zadanie "Pożar"
+# Zadanie "Pożar" (Grafy)
 
 ## Treść zadania
 

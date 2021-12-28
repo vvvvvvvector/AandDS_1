@@ -1,4 +1,4 @@
-# Zadanie "Sad"
+# Zadanie "Sad" (Algorytmy zachłanne i programowanie dynamiczne)
 
 ## Treść zadania
 
