@@ -58,3 +58,5 @@ Stan spoczynku
 [Kliknij aby wyświetlić](https://drive.google.com/file/d/1etA5kgscIFqbPpEtMbMGxYxjrU6Ydct1/view?usp=sharing)
 
 **Uwaga! Zadanie ma być samodzielną implementacją struktury drzewiastej. Nie można używać bibliotek STL.**
+
+![Zadanie4Tests](../TestResults/Zadanie4.jpg)

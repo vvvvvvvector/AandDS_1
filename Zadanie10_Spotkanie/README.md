@@ -58,3 +58,6 @@ Na wyjściu dla każdego testu należy wypisać maksymalną liczbę możliwych r
 2 5
 ```
 **UWAGA!** Zadanie należy rozwiązać wykorzystując samodzielnie zaimplementowany kopiec.
+
+![Zadanie10Tests](../TestResults/Zadanie10.jpg)
+

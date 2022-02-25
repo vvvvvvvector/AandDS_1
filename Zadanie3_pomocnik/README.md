@@ -86,6 +86,7 @@ Trzmielina 6
 
 **Uwaga: Zadanie ma być samodzielną implementacją list bez wykorzystania bibliotek STL.**
 
+![Zadanie3Tests](../TestResults/Zadanie3.png)
 
 
 

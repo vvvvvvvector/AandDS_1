@@ -40,3 +40,6 @@ NIE
 ```
 
 **Uwaga! Zadanie powinno być rozwiązane przy użyciu metody "dziel i zwyciężaj".**
+
+![Zadanie6Tests](../TestResults/Zadanie6.jpg)
+

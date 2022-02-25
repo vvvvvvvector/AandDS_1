@@ -36,3 +36,6 @@ Na wyjściu dla każdego testu program ma wypisać minimalny koszt montażu stan
 8
 NIE
 ```
+
+![Zadanie8Tests](../TestResults/Zadanie8.jpg)
+

@@ -40,3 +40,6 @@ Dla każdego testu należy wypisać wyraz "NIE", jeśli Mieszko nie może wyjś�
 3
 NIE
 ```
+
+***Wyniki testów***
+![Zadanie5Tests](../TestResults/Zadanie5.jpg)

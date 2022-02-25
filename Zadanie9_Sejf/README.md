@@ -35,3 +35,5 @@ XoooX
 ```
 **Uwaga: Zadanie ma być samodzielną implementacją algorytmu sortowania w czasie liniowym.**
 
+![Zadanie9Tests](../TestResults/Zadanie9.jpg)
+

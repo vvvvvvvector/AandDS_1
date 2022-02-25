@@ -29,3 +29,6 @@ W przypadku, gdy istnieje więcej możliwości, które kończą się tym samym w
 ```
 2 23
 ```
+
+![Zadanie7Tests](../TestResults/Zadanie7.jpg)
+

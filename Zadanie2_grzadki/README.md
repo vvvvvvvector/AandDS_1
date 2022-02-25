@@ -42,3 +42,4 @@ marchew-dynia pietruszka-pomidor seler-papryka ziemniak-szpinak rzodkiewka-kapus
 
 **Uwaga! Nie można używać bibliotek STL. Zadanie powinno być samodzielną implementacją algorytmu sortującego.**
 
+![Zadanie2Tests](../TestResults/Zadanie2.png)
