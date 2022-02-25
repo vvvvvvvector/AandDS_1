@@ -3,7 +3,9 @@
 
 # But not .cpp
 !*.cpp
-# Or directories
+# Or 
+!*.jpg
+!*.png
 !*/
 !.gitignore
 !README.md

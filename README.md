@@ -1,5 +1,5 @@
 # Algorytmy i struktury danych I
 
-## MAX 36
+## MAX = 36
 
 ![MainPage](./TestResults/main.png)
